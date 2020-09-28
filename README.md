@@ -2,7 +2,8 @@
 # Kubernetes on AWS using Kops
 
 Set Environment variables:
-	export S3_BUCKET_NAME=maitrihome-state-store	(Bucket Name)
+	
+	export S3_BUCKET_NAME=maitrihome-state-store			(Bucket Name)
 
 
 ### 1. Launch Linux EC2 instance in AWS (Kubernetes Client)
